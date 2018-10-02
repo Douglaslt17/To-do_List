@@ -14,3 +14,8 @@ Tecnologias usadas: CSS/HTML/JS
 **Youtube:** [Max Sandelin](https://www.youtube.com/channel/UCr1BiYXeVfpWRCkS0MGjYkQ)
 <br/>
 **Github:** [Themaxsandelin](https://github.com/themaxsandelin)
+
+<hr>
+
+# Licença
+
