@@ -19,3 +19,4 @@ Tecnologias usadas: CSS/HTML/JS
 
 # Licença
 
+[MIT](https://github.com/Douglaslt17/To-do_List/blob/master/LICENSE) © Douglas M.M Louterio
