@@ -22,7 +22,7 @@ document.getElementById("add").addEventListener("click",() => {
 
 document.getElementById("item").addEventListener("keydown", function(e){
     let value = this.value;
-    if (e.code === "Enter" && value) {
+    if (e.keyCode === 13 && value) {
         addItem(value);
     }
 });
