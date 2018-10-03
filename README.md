@@ -3,9 +3,9 @@
 **Projeto**:
 
 Tecnologias usadas: CSS/HTML/JS
-<br/><br/>Sistema simples para o gerenciamento de afazeres. Crie tarefas, marque como realizadas ou refaça tarefas antigas, as mesmas podem ser excluídas. Usa  *locaStorage* para armazedar os dados, assim mesmo que você feche o navegador, ou abra depois de horas e até mesmo dias, seus afazeres estarão salvos. Ele foi baseado no conteúdo criado pelo **Max Sandelin**, todos créditos a ele.
+<br/><br/>Sistema simples para o gerenciamento de afazeres. Crie tarefas, marque como realizadas ou refaça tarefas antigas, as mesmas podem ser excluídas. Usa  *locaStorage* para armazedar os dados, dessa forma, mesmo que você feche o navegador, ou abra depois de horas e até mesmo dias depois, seus afazeres estarão salvos. Ele foi baseado no conteúdo criado pelo **Max Sandelin**, todos créditos a ele.
 
-**Deploy via NOW:** [Just do it](https://to-dolist-exbcywhxqh.now.sh/)
+**Deploy via NOW:** [Just do it](https://to-dolist-bqrjkjoshz.now.sh)
 
 <br/>
 
