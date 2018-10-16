@@ -27,6 +27,10 @@ document.getElementById("item").addEventListener("keydown", function(e){
     }
 });
 
+function allTodo(){
+    
+}
+
 
 function addItem(value) {
     addItemToDOM(value);
@@ -53,6 +57,23 @@ function renderTodoList() {
 function dataObjectUpdated() {
     localStorage.setItem("todoList", JSON.stringify(data));
 }
+
+
+function removeAllItens(){
+    const item = document.querySelectorAll(".content .container ul li");
+    if(item.length != 0 && confirm("Deseja apagar todas a tarefas?")){
+        item.forEach(ul => {
+        data.todo.splice(0, data.todo.length);
+        data.completed.splice(0, data.completed.length);
+        
+        dataObjectUpdated();
+        ul.parentNode.removeChild(ul);
+        });
+    }
+}
+
+document.querySelector("header button#btn-removeAll").addEventListener("click", removeAllItens);
+
 
 function removeItem(){
     const item = this.parentNode.parentNode;
